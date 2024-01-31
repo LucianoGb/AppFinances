@@ -1,0 +1,15 @@
+{
+    "name": "luciano/app-finances",
+    "autoload": {
+        "psr-4": {
+            "AppFinances\\": "app/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Luciano Gouveia",
+            "email": "ljdgb2012@gmail.com"
+        }
+    ],
+    "require": {}
+}
